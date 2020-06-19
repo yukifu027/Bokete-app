@@ -1,7 +1,7 @@
 <h2 align="center">Quiz App</h2>
 
 <p align="center">
-  <img src="https://i.gyazo.com/f1f0cd633d3337218e5ebd0be8ce9bca.png" width="250px;"/>
+  <img src="https://i.gyazo.com/7e462ae0d2db65c3258fd02c5011ebac.png" width="250px;"/>
 </p>
 
 # アプリ名
