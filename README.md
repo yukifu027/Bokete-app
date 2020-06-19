@@ -1,4 +1,8 @@
-# Bokete-app
+<h2 align="center">Quiz App</h2>
+
+<p align="center">
+  <img src="https://i.gyazo.com/f1f0cd633d3337218e5ebd0be8ce9bca.png" width="250px;"/>
+</p>
 
 # アプリ名
 # 概要(このアプリでできることを書いて下さい)
